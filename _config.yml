@@ -1,7 +1,7 @@
 # Site settings
 title: Lanyuxs Blog
-SEOTitle: 蓝羽的博客 | Lanyuxs Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: 蓝羽的博客
+header-img: img/post-bg-qihang.jpg
 #email: qiubaiying@gmail.com
 description: "拥有自己的想法和东西，而不是对照别人的人生开始焦虑"
 keyword: "LY, Lanyu, Lanyuxs, Lanyuxs Blog, 蓝羽, 蓝羽的博客, 资源, Android"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "佩服什么，你的倔强就会让你成为什么"
+sidebar-about-description: "你佩服什么，你的倔强就会让你成为什么"
 sidebar-avatar: /img/about-LY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,7 +19,7 @@ sidebar-avatar: /img/about-LY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     蓝羽xs
+zhihu_username:    Lanyuxs
 github_username:   Lanyuxs
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
