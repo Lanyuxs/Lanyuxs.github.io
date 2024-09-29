@@ -10,7 +10,9 @@ tags:
     - Android
     - 软件
 ---
-# 一、介绍
+
+# 一、背景介绍
+
 从真实世界的对象创建高度详细的 3D 模型，免费下载
 
 轻松 3D 扫描物体——无论您身在何处
@@ -21,7 +23,8 @@ tags:
 - 增强项目库来存储和管理您的项目
 - 上传到 Sketchfab，这是发布、共享和销售 3D、VR 和 AR 内容的终极平台
 
-# 二、使用
+# 二、理论知识
+
 ![RealityScan](https://p.ipic.vip/ji3vap.jpg)
 
 1. 避免透明、闪光或纯色的物品，如玻璃、金属、和白色的塑料
@@ -33,7 +36,7 @@ tags:
 	
 	Have fun scanning!
 
-# 三、下载
+# 三、实践方法
 
 [RealityScan谷歌商店](https://play.google.com/store/apps/details?id=com.epicgames.realityscan)（需科学上网）
 

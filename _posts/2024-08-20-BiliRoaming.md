@@ -1,20 +1,26 @@
 ---
 layout:     post
-title:      哔哩哔哩漫游版分享
-subtitle:   且用且珍惜
+title:      BiliRoaming
+subtitle:   哔哩哔哩漫游版
 date:       2024-08-20
 author:     Lanyuxs
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
     - Android
-    - 资源
+    - 软件
+       - 资源 
 ---
+
+# 一、背景介绍
+
 手机里每天用的最多的软件要数**哔哩哔哩**了，但是官方版的那个加号实在烦得很
 
 看看下面，没有对比就没有伤害
 ![对比](https://p.ipic.vip/uhi4eu.png)
 图左为普通版，图右为**漫游版**
+
+# 二、实践方法
 
 **漫游版**那么好用，那么哪里可以拿得到呢？
 
